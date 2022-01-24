@@ -1,6 +1,6 @@
 ### Hey everybody 👋 I am Atahan Ceylan
 
-- 🔭 I’m currently working in Radio Free Europe
+- 🔭 I’m currently working (soon)
 - 💬 Ask me about C#, ASP.Net MVC, Docker, MS SQL, Entity Framework
 - 📫 How to reach me: [here](mailto:atahanceylan@gmail.com)
 
