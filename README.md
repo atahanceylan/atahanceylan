@@ -1,6 +1,6 @@
 ### Hey everybody 👋 I am Atahan Ceylan
 
-- 🔭 I’m currently working (soon)
+- 🔭 I’m currently working at EPAM (https://github.com/epam)
 - 💬 Ask me about C#, ASP.Net MVC, Docker, MS SQL, Entity Framework
 - 📫 How to reach me: [here](mailto:atahanceylan@gmail.com)
 
