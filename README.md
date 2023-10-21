@@ -1,6 +1,6 @@
 ### Hey everybody 👋 I am Atahan Ceylan
 
-- 🔭 I’m currently working at EPAM (https://www.epam.com)
+- 🔭 I’m currently working at Konplan s.r.o. (https://konplan.cz/)
 - 💬 Ask me about C#, ASP.Net MVC, Docker, MS SQL, Entity Framework
 - 📫 How to reach me: [here](mailto:atahanceylan@gmail.com)
 
